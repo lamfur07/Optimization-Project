@@ -1,4 +1,4 @@
-# Optimization-Project
+# Optimization-Project-
 
 This Project focuses on the application what you learn in the course to your self-formulated problems.
 The problem that we discuss in this project is the famous "Diet Problem", this problem was formed based on these requirements.
